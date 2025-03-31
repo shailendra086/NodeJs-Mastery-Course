@@ -4,7 +4,7 @@ import mongoose from 'mongoose';
 
 const app=express();
 const PORT=3000;
-const url = "mongodb+srv://shailendra10020:6uRh4x3an2Vtgdkq@cluster0.nn4oa.mongodb.net/FileUploadDB";
+const url = "urldemo";
 mongoose.connect(url,).then(()=>{
     console.log('MongoDB connected successfully');
 

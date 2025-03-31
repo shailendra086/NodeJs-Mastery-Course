@@ -5,7 +5,7 @@ import {User} from './Models/User.js';
 const app = express();
 const PORT = 3000;
 app.use(express.urlencoded({extended:true}));
-mongoose.connect('mongodb+srv://shailendra10020:6uRh4x3an2Vtgdkq@cluster0.nn4oa.mongodb.net/myFirstDatabase',).then(() => {
+mongoose.connect('demourlreplace this',).then(() => {
     console.log('Connected to MongoDB');
 
 }).catch((err) => { 
