@@ -1,0 +1,1 @@
+This is a new file created using fs module in nodejs I am Learnign the fs module in nodejs and added the cntent successfully

@@ -1,0 +1,8 @@
+body{
+    background-color: #f0f0f0;
+    /* background-color: #e0e0e0; */ /* This is a comment */
+    font-family: Arial, sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
