@@ -22,8 +22,7 @@ const contactSchema = new mongoose.Schema({
         default : Date.now,
     },
     user:{
-        type : mongoose.Schema.Types.ObjectId,
-        ref : 'User',
+        type : mongoose.Schema.Types.ObjectId
        
     },
 })
